@@ -3,7 +3,7 @@ int main()
 {
 	int a;
 	scanf_s("%d", &a);
-	switch (a / 10){
+	switch (a / 10){                            
 	case 6:
 		printf("¼°¸ñ");
 		break;
